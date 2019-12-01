@@ -1,5 +1,5 @@
 # iCube_Backend
-所有的个人信息都删除了，所以看TODO吧
+所有的个人信息都删除了，所以看TODO吧，隐私信息都在TODO里边备注了
 不知道该说啥好，
 Django==2.1.4（不能2.2，和PyMysql不兼容）
 django-cors-headers==3.1.0（不能再新了）
